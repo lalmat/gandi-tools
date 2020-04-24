@@ -5,9 +5,7 @@ GANDI.NET Invoice Scraper and Parser
 
 ### Installation
 ```bash
-git clone https://github.com/lalmat/gandi-tools.git
-cd gandi-tools
-npm install
+npm i gandi-invoice
 cp .env.sample .env
 ```
 
