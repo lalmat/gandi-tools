@@ -1,5 +1,5 @@
 {
-  "name": "gandi-tools",
+  "name": "gandi-invoices",
   "version": "0.1.0",
   "description": "GANDI.NET PDF Invoices - Scraper and Parser",
   "main": "index.js",
