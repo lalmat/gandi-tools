@@ -1,0 +1,33 @@
+{
+  "name": "gandi-tools",
+  "version": "0.1.0",
+  "description": "GANDI.NET PDF Invoices - Scraper and Parser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lalmat/gandi-tools.git"
+  },
+  "keywords": [
+    "gandi",
+    "scraper",
+    "invoice",
+    "parser",
+    "data",
+    "pdf",
+    "download"
+  ],
+  "author": "Mathieu Lallemand",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lalmat/gandi-tools/issues"
+  },
+  "homepage": "https://github.com/lalmat/gandi-tools#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "node-fetch": "^2.6.0",
+    "puppeteer": "^3.0.1"
+  }
+}
